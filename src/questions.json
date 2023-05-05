@@ -1,80 +1,103 @@
 [
   {
+    "question": "Which city is considered the birthplace of Hip Hop?",
+    "answers": ["Los Angeles", "New York City", "Chicago"],
+    "correctAnswer": "New York City"
+  },
+  {
     "question": "Who is known as the 'Godfather of Hip Hop'?",
-    "answers": ["DJ Kool Herc", "Grandmaster Flash", "Afrika Bambaataa"],
-    "correctAnswer": "DJ Kool Herc"
+    "answers": ["Grandmaster Flash", "Afrika Bambaataa", "Kool Herc"],
+    "correctAnswer": "Kool Herc"
+  },
+  {
+    "question": "What was the first commercially successful hip hop song?",
+    "answers": ["The Message", "Rapper's Delight", "Planet Rock"],
+    "correctAnswer": "Rapper's Delight"
   },
   {
     "question": "Which hip hop group released the album 'Straight Outta Compton'?",
-    "answers": ["N.W.A", "Public Enemy", "Wu-Tang Clan"],
+    "answers": ["Wu-Tang Clan", "N.W.A", "Public Enemy"],
     "correctAnswer": "N.W.A"
   },
   {
-    "question": "Who was the first rapper to win a Pulitzer Prize?",
-    "answers": ["Kendrick Lamar", "Jay-Z", "Eminem"],
-    "correctAnswer": "Kendrick Lamar"
+    "question": "What is the name of Jay-Z's debut album?",
+    "answers": ["Reasonable Doubt", "In My Lifetime, Vol. 1", "The Blueprint"],
+    "correctAnswer": "Reasonable Doubt"
   },
   {
-    "question": "Which rapper starred in the movie '8 Mile'?",
-    "answers": ["Eminem", "50 Cent", "Dr. Dre"],
-    "correctAnswer": "Eminem"
-  },
-  {
-    "question": "What was the name of the hip hop duo consisting of DJ Jazzy Jeff and the Fresh Prince?",
-    "answers": [
-      "Eric B. & Rakim",
-      "Run-DMC",
-      "DJ Jazzy Jeff & The Fresh Prince"
-    ],
-    "correctAnswer": "DJ Jazzy Jeff & The Fresh Prince"
-  },
-  {
-    "question": "Which hip hop group released the album 'Enter the Wu-Tang (36 Chambers)'?",
-    "answers": ["Wu-Tang Clan", "A Tribe Called Quest", "De La Soul"],
-    "correctAnswer": "Wu-Tang Clan"
-  },
-  {
-    "question": "What is the real name of the rapper Jay-Z?",
-    "answers": ["Shawn Carter", "Sean Combs", "Curtis Jackson"],
-    "correctAnswer": "Shawn Carter"
-  },
-  {
-    "question": "Which artist is known for the hit song 'Gangsta's Paradise'?",
-    "answers": ["Coolio", "Snoop Dogg", "LL Cool J"],
-    "correctAnswer": "Coolio"
-  },
-  {
-    "question": "What is the real name of the rapper Tupac Shakur?",
-    "answers": [
-      "Lesane Parish Crooks",
-      "Christopher Wallace",
-      "Calvin Broadus"
-    ],
-    "correctAnswer": "Lesane Parish Crooks"
-  },
-  {
-    "question": "Which artist released the album 'The College Dropout'?",
-    "answers": ["Kanye West", "Lil Wayne", "Nas"],
-    "correctAnswer": "Kanye West"
-  },
-  {
-    "question": "What is the real name of the rapper Notorious B.I.G.?",
-    "answers": ["Christopher Wallace", "Tupac Shakur", "Dwayne Carter"],
-    "correctAnswer": "Christopher Wallace"
-  },
-  {
-    "question": "Which female rapper is known for her hit song 'Super Bass'?",
-    "answers": ["Nicki Minaj", "Cardi B", "Missy Elliott"],
+    "question": "Who is the female rapper with the highest number of Billboard Hot 100 entries?",
+    "answers": ["Lil' Kim", "Missy Elliott", "Nicki Minaj"],
     "correctAnswer": "Nicki Minaj"
   },
   {
-    "question": "Which hip hop artist released the album 'To Pimp a Butterfly'?",
-    "answers": ["Kendrick Lamar", "J. Cole", "Drake"],
+    "question": "Which hip hop artist released the critically acclaimed album 'To Pimp a Butterfly'?",
+    "answers": ["Kanye West", "Kendrick Lamar", "J. Cole"],
     "correctAnswer": "Kendrick Lamar"
   },
   {
-    "question": "What is the real name of the rapper Snoop Dogg?",
-    "answers": ["Calvin Broadus", "Cordozar Broadus", "Andre Young"],
-    "correctAnswer": "Calvin Broadus"
+    "question": "Which rap group is known for the hit 'Fight the Power'?",
+    "answers": ["Public Enemy", "Run-DMC", "A Tribe Called Quest"],
+    "correctAnswer": "Public Enemy"
+  },
+  {
+    "question": "What is Eminem's real name?",
+    "answers": ["Marshall Mathers", "Curtis Jackson", "Sean Combs"],
+    "correctAnswer": "Marshall Mathers"
+  },
+  {
+    "question": "Which artist is known for the song 'Gangsta's Paradise'?",
+    "answers": ["Tupac Shakur", "Snoop Dogg", "Coolio"],
+    "correctAnswer": "Coolio"
+  },
+
+  {
+    "question": "Which rapper starred in the TV show 'The Fresh Prince of Bel-Air'?",
+    "answers": ["Ice Cube", "LL Cool J", "Will Smith"],
+    "correctAnswer": "Will Smith"
+  },
+  {
+    "question": "Which rap duo is known for their hit song 'Jump Around'?",
+    "answers": ["Cypress Hill", "House of Pain", "EPMD"],
+    "correctAnswer": "House of Pain"
+  },
+  {
+    "question": "What is the stage name of the rapper and producer Andre Romelle Young?",
+    "answers": ["Dr. Dre", "Ice Cube", "Snoop Dogg"],
+    "correctAnswer": "Dr. Dre"
+  },
+  {
+    "question": "Which artist released the album 'The College Dropout'?",
+    "answers": ["Kanye West", "J. Cole", "Kendrick Lamar"],
+    "correctAnswer": "Kanye West"
+  },
+  {
+    "question": "Who is known for the hit song 'In da Club'?",
+    "answers": ["50 Cent", "Eminem", "Ludacris"],
+    "correctAnswer": "50 Cent"
+  },
+  {
+    "question": "Which hip hop group is known for the song 'Sabotage'?",
+    "answers": ["Beastie Boys", "Run-DMC", "Cypress Hill"],
+    "correctAnswer": "Beastie Boys"
+  },
+  {
+    "question": "Which artist released the album 'Doggystyle'?",
+    "answers": ["Snoop Dogg", "Dr. Dre", "Ice Cube"],
+    "correctAnswer": "Snoop Dogg"
+  },
+  {
+    "question": "Who is the rapper and actor known for his role in the movie 'Boyz n the Hood'?",
+    "answers": ["Tupac Shakur", "Ice Cube", "LL Cool J"],
+    "correctAnswer": "Ice Cube"
+  },
+  {
+    "question": "Which rapper is known for his alter ego 'Slim Shady'?",
+    "answers": ["Eminem", "Kanye West", "Lil Wayne"],
+    "correctAnswer": "Eminem"
+  },
+  {
+    "question": "What is the name of the influential hip hop group formed by Q-Tip, Phife Dawg, Ali Shaheed Muhammad, and Jarobi White?",
+    "answers": ["De La Soul", "A Tribe Called Quest", "The Roots"],
+    "correctAnswer": "A Tribe Called Quest"
   }
 ]
