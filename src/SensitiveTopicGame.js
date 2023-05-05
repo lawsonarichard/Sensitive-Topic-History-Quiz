@@ -57,10 +57,9 @@ const SensitiveTopicGame = () => {
     setGameOver(false);
   };
 
-
   return (
     <div>
-      <h1>Sensitive Topic History Quiz</h1>
+      <h1>Hip Hop Quiz</h1>
       {gameOver ? (
         <GameOver score={score} handlePlayAgain={handlePlayAgain} />
       ) : (

@@ -3,12 +3,9 @@ import "./GameOver.css";
 
 const GameOver = ({ score, handlePlayAgain }) => (
   <div class="game-over">
-    <p class="concluding-statement">
-      This game contains a selection of questions about the US foreign policy.
-      As you can see, these questions can be very sensitive and controversial.
-      It is important to remember that behind each of these questions, there are
-      real people who have been affected by the decisions made by the US
-      government.
+    {/* <p class="concluding-statement">
+      This game contains a selection of questions about Hip Hop.
+      
     </p>
     <p class="invitation">
       We invite you to think about the victims of US foreign policy decisions
@@ -18,7 +15,7 @@ const GameOver = ({ score, handlePlayAgain }) => (
     </p>
     <p class="note">
       Note: All the code and the questions in this game were written by an AI.
-    </p>
+    </p> */}
     <p class="score">
       Your final score is: <span class="score-number">{score}</span>
     </p>
